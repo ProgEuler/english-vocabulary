@@ -1,0 +1,8 @@
+@font-face{
+    font-family: 'AdorshoLipi';
+    src: url('assets/fonts/AdorshoLipi/AdorshoLipi.ttf') format('truetype');
+}
+
+.bangla-text{
+    font-family: 'AdorshoLipi',sprintf;
+}
